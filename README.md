@@ -32,3 +32,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Conventional Commits 1.0.0
+
+I useed [@commitlint/config-conventional @commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional).
+
+[What is Conventional Commits 1.0.0?](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+
+The commit message should be structured as follows:
+
+```bash
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+```
+
+## Trunk Based Development
+
+The style guide of work, that should be adhered to, is Trunk Based Development.
+
+[What is Trunk Based Development?](https://trunkbaseddevelopment.com/#one-line-summary)
