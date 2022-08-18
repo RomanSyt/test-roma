@@ -35,7 +35,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Conventional Commits 1.0.0
 
-I useed [@commitlint/config-conventional @commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional).
+I used [@commitlint/config-conventional @commitlint/cli](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional).
 
 [What is Conventional Commits 1.0.0?](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 
